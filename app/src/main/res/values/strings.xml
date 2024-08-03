@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Game4</string>
+    <string name="score_0">Score: 0</string>
+    <string name="new_game">New Game</string>
+    <string name="new_game1">New Game</string>
+</resources>
